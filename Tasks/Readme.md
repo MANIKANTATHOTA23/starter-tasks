@@ -14,8 +14,8 @@
 
 ## The Tasks
 
-- [Create a GitHub and Git account](#task-0)
-- [Install Linux](#task-1)
+- [Create a GitHub and Git account]
+- [Install Linux]
 - [Bandit OTW](#task-2)
 - [Set up a Code Editor](#task-3)
 - [Project Euler](#task-4)

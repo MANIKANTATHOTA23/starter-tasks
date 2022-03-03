@@ -14,19 +14,19 @@
 
 ## The Tasks
 
-- [Create a GitHub and Git account]
-- [Install Linux]
-- [Bandit OTW](#task-2)
-- [Set up a Code Editor](#task-3)
-- [Project Euler](#task-4)
-- [Create a Tribute Page](#task-5)
-- [Data scraping using Python](#task-6)
-- [Kaggle + Intro to ML course](#task-7)
-- [Shh...](#task-8)
-- [ADVENT OF CODE](#task-9)
-- [Explore LaTeX](#task-10)
-- [Having Fun with Logic Gates](#task-11)
-- [Hackerrank Competition in C/C++](#task-12)
-- [Task 13](#task-13)
+- Create a GitHub and Git account
+- Install Linux
+- Bandit OTW
+- Set up a Code Editor
+- Project Euler
+- Create a Tribute Page
+- Data scraping using Python
+- Kaggle + Intro to ML course
+- Shh...
+- ADVENT OF CODE
+- Explore LaTeX
+- Having Fun with Logic Gates
+- Hackerrank Competition in C/C++
+- Task 13
 
-[link To Website](https://acmamrita.bss.design/)
+Website Link For the Tasks [link To Website](https://acmamrita.bss.design/)
